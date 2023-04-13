@@ -1,4 +1,4 @@
-# Paypal Homepage Clone by 
+# Paypal Homepage Clone by Oluwatobiloba Asaolu
 ## Assets
 
 ### Fonts
