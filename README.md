@@ -1,5 +1,4 @@
-# Paypal Homepage Clone by [TsbSankara](https://youtube.com/@tsbsankara)
-
+# Paypal Homepage Clone by 
 ## Assets
 
 ### Fonts
@@ -16,4 +15,3 @@ Find the remaining images in the `images` folder.
 
 ## Video
 
-Link to video will be posted [here](https://youtube.com/@tsbsankara) when the project is completed.
